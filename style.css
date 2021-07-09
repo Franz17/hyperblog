@@ -1,0 +1,38 @@
+body
+{
+    background-color: chocolate;
+    
+}
+h2
+{
+    text-align: center;
+
+
+}
+.cabala
+{
+    background: cornsilk;
+    border-radius: 5px;
+    border-color: crimson;
+    width: 220px;
+    height: 210px;
+    margin: auto;
+  
+   
+    
+}
+.caja
+{
+    background: cornsilk;
+    overflow-y: scroll;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+footer
+{
+    
+  
+}
