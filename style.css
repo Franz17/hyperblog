@@ -34,5 +34,10 @@ h2
 footer
 {
     
-  
+    background: rgb(63, 52, 8);
+    overflow-y: scroll;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    padding: 10px;
 }
