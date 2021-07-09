@@ -11,7 +11,7 @@ h2
 }
 .cabala
 {
-    background: cornsilk;
+    background: rgb(102, 7, 190);
     border-radius: 5px;
     border-color: crimson;
     width: 220px;
@@ -23,16 +23,26 @@ h2
 }
 .caja
 {
-    background: cornsilk;
+    background: rgb(58, 15, 139);
     overflow-y: scroll;
     width: 200px;
     height: 200px;
     border-radius: 5px;
     padding: 10px;
+    color: rgb(245, 132, 166);
+    
+}
+.ni
+{
+    text-align: end;
+    size: 10px;
+    color: azure;
+    font-style: italic;
+    background: rgba(255, 51, 0, 0.534);
     
 }
 footer
 {
     
-  
+    
 }
