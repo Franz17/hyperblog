@@ -1,5 +1,12 @@
-# hyperblog
-Un blog para el curso de Platzi
-TERCERLA LINE
-4ta
-5t
+## Hyperblog 
+
+ > Este blog esta creado para desarrollar practicas de github
+ con la enseñanza de "Platzi"
+ 
+--- 
+
+->[Platzi](https://platzi.com/)
+
+|Nombre | Curso|
+|-------|------| 
+|Franz  | GitHub|
